@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "700394948754",
+    "project_id": "faming-todo",
+    "storage_bucket": "faming-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700394948754:android:c6462917836e8488d5be4b",
+        "android_client_info": {
+          "package_name": "com.example.plan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700394948754-d6ghl9sj3sef7i3evcnrvcjdf4be9kih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plan_app",
+            "certificate_hash": "8c4776b2f8aba5f0b097f1efcdb882a7ec8625e1"
+          }
+        },
+        {
+          "client_id": "700394948754-s50d08su8mdo0gj1hbhikd7lk271domu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGc_2lkRISvRTqzeB6GtpNSzxDwGsVoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700394948754-0eambtmuia362d5grnpocu6b2ivaf551.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700394948754-8h7o4u1fu571m1j41td5kvk8i4h0gfut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.envio.driver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700394948754:android:91b11369d75b1e5bd5be4b",
+        "android_client_info": {
+          "package_name": "com.example.plan_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700394948754-s50d08su8mdo0gj1hbhikd7lk271domu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGc_2lkRISvRTqzeB6GtpNSzxDwGsVoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700394948754-0eambtmuia362d5grnpocu6b2ivaf551.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700394948754-8h7o4u1fu571m1j41td5kvk8i4h0gfut.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.envio.driver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
